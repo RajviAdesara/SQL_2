@@ -1,4 +1,4 @@
-# 📚 SQL Internship Task 2: Data Insertion & Null Handling
+# 📚 SQL Internship Task 2: CRUD Operation & Null Handling
 
 ## 👩‍💻 About This Task
 
